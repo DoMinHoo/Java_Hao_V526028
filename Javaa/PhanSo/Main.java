@@ -30,5 +30,7 @@ public class Main {
         System.out.println("Phan so lon nhat: " + lonNhat);
         System.out.println("Tong cac phan so: " + tong);
         System.out.println("So phan so khong phai so nguyen: " + soPhanSoKhongNguyen);
-    }
+    }   
+
+
 }
